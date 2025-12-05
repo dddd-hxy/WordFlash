@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- 蓝色系深色主题颜色 -->
+    <color name="blue_primary">#42A5F5</color>
+    <color name="blue_primary_dark">#1565C0</color>
+    <color name="blue_primary_light">#90CAF9</color>
+    <color name="blue_accent">#29B6F6</color>
+    <color name="blue_surface">#1E3A5F</color>
+    <color name="blue_surface_variant">#1565C0</color>
+</resources>
+

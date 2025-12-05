@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WordFlash</string>
+    <string name="flashcard_review">Flashcard Review</string>
+    <string name="add_word">Add Word</string>
+    <string name="statistics">Statistics</string>
+    <string name="word">Word</string>
+    <string name="meaning">Meaning</string>
+    <string name="add_word_button">Add Word</string>
+    <string name="mastered">Mastered</string>
+    <string name="not_mastered">Not Mastered</string>
+    <string name="start_learning">Start Learning</string>
+    <string name="no_task">No Task</string>
+    <string name="total_words">Total Words</string>
+    <string name="mastered_count">Mastered</string>
+    <string name="to_review">To Learn</string>
+    <string name="progress">Progress</string>
+    <string name="language_switch">中</string>
+    <string name="no_words_to_review">Start Learning</string>
+    <string name="review_complete">Review complete today!</string>
+    <string name="marked_as_mastered">Marked as mastered</string>
+    <string name="marked_as_not_mastered">Marked as not mastered</string>
+    <string name="all_reviewed">Congratulations! All words reviewed today</string>
+    <string name="word_added">Word added successfully</string>
+    <string name="enter_word">Please enter word</string>
+    <string name="enter_meaning">Please enter meaning</string>
+</resources>
+
